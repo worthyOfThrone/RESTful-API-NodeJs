@@ -1,4 +1,4 @@
-# Antarctica Global Interview Project
+# RESTful API Project
 
 This is a backend application providing a RESTful API for Registration, logic, and getting a List of User(s).
 
